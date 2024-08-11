@@ -1,7 +1,7 @@
 # Global
 
 title-text: ""
-desktop-image: "background.png"
+desktop-image: "assets/background.png"
 
 # Terminal for Console and Options
 terminal-border: "20"
@@ -9,7 +9,7 @@ terminal-left: "20%"
 terminal-top: "20%+23"
 terminal-width: "60%"
 terminal-height: "60%"
-terminal-box: "term_*.png"
+terminal-box: "assets/term_*.png"
 terminal-font: "Monocraft Regular 22"
 
 # SHADOW
@@ -41,8 +41,8 @@ terminal-font: "Monocraft Regular 22"
 	item_padding = 0
 	item_icon_space = -20
 	item_spacing = 45
-	item_pixmap_style = "item_*.png"
-	selected_item_pixmap_style = "selected_item_*.png"
+	item_pixmap_style = "assets/item_*.png"
+	selected_item_pixmap_style = "assets/selected_item_*.png"
 	scrollbar = false
 }
 
